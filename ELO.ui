@@ -13,6 +13,88 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
+  <widget class="QLabel" name="iq">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>80</y>
+     <width>311</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Sans Serif</family>
+     <pointsize>35</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>ILE MASZ IQ?</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>240</y>
+     <width>291</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Sans Serif</family>
+     <pointsize>35</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButtonClick">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>630</y>
+     <width>291</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Sans Serif</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+     <underline>true</underline>
+    </font>
+   </property>
+   <property name="text">
+    <string>--&gt; gorace mamuski &lt;--</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditIQ">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>140</y>
+     <width>231</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Sans Serif</family>
+     <pointsize>35</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
